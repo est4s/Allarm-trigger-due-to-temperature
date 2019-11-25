@@ -10,3 +10,5 @@ Components:
 - 2 lm35 sensors
 - 2 potentiomenters
 - Resistors for lcd screens
+
+Here's a demo video: https://youtu.be/zki12taTKBI
